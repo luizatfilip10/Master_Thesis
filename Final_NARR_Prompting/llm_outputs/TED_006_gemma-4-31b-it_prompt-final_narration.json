@@ -1,0 +1,44 @@
+{
+  "annotations": [
+    {
+      "label": "Exordium",
+      "text": "I live in Utah, a place known for having some of the most awe-inspiring natural landscapes on this planet. It's easy to be overwhelmed by these amazing views, and to be really fascinated by these sometimes alien-looking formations."
+    },
+    {
+      "label": "Propositio",
+      "text": "As a scientist, I love observing the natural world. But as a cell biologist, I'm much more interested in understanding the natural world at a much, much smaller scale. I'm a molecular animator, and I work with other researchers to create visualizations of molecules that are so small, they're essentially invisible."
+    },
+    {
+      "label": "Narratio",
+      "text": "Scientists, like my collaborators, can spend their entire professional careers working to understand one molecular process. To do this, they carry out a series of experiments that each can tell us a small piece of the puzzle. One kind of experiment can tell us about the protein shape, while another can tell us about what other proteins it might interact with, and another can tell us about where it can be found in a cell. And all of these bits of information can be used to come up with a hypothesis, a story, essentially, of how a molecule might work. My job is to take these ideas and turn them into an animation."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "First off, this is an immune cell. These kinds of cells need to go crawling around in our bodies in order to find invaders like pathogenic bacteria. This movement is powered by one of my favorite proteins called actin, which is part of what's known as the cytoskeleton."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "In our muscle cells, actin structures form these regular filaments that look kind of like fabric. When our muscles contract, these filaments are pulled together and they go back to their original position when our muscles relax."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "The molecular version of semitrucks are proteins aptly named motor proteins, that can walk along microtubules, dragging sometimes huge cargoes, like organelles, behind them. This particular motor protein is known as dynein, and its known to be able to work together in groups that almost look, at least to me, like a chariot of horses."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "These donut-shaped proteins, of which there are many types in the cell, all seem to act to rip apart structures by basically pulling individual proteins through a central hole. When these kinds of proteins don't work properly, the types of proteins that are supposed to get taken apart can sometimes stick together and aggregate and that can give rise to terrible diseases, such as Alzheimer's."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "In this case, this large molecular machine is looking for a segment of DNA that tells it it's at the beginning of a gene. Once it finds a segment, it basically undergoes a series of shape changes which enables it to bring in other machinery that in turn allows a gene to get turned on or transcribed."
+    },
+    {
+      "label": "Confirmatio",
+      "text": "CRISPR takes advantage of a protein known as Cas9, which can be engineered to recognize and cut a very specific sequence of DNA. In this example, two Cas9 proteins are being used to excise a problematic piece of DNA. For example, a part of a gene that may give rise to a disease. Cellular machinery is then used to basically glue two ends of the DNA back together."
+    },
+    {
+      "label": "Peroratio",
+      "text": "To me, these molecular landscapes are just as exciting to explore as a natural world that's visible all around us."
+    }
+  ]
+}
