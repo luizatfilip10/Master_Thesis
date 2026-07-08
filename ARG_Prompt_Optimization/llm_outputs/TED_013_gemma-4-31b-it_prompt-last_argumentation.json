@@ -1,0 +1,32 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "The reason why people have that perception has to do with the way stories are covered about dictatorships"
+    },
+    {
+      "label": "C-EXP",
+      "text": "it serves the purpose of the dictator"
+    },
+    {
+      "label": "P-EXP",
+      "text": "It helps them advertise their cruelty"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "it is very important to cover the stories of activists in the way that it helps mobilize people, not in the way that it helps deter their action and force even more their subjugation to the oppressive system"
+    },
+    {
+      "label": "C-EXP",
+      "text": "it is the stories of resistance, the stories of defiance, the stories of resilience, that inspire people to get involved, not the stories of abuse and killings and hurt"
+    },
+    {
+      "label": "P-EXP",
+      "text": "as humans, it's only natural for us to be scared"
+    },
+    {
+      "label": "C-EXP",
+      "text": "no country is actually destined to be oppressed, while at the same time, no country or no people are immune to oppression and dictatorship"
+    }
+  ]
+}
