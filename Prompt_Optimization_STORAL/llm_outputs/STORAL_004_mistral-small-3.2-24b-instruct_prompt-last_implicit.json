@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "he just continued saving that animal until he finally succeeded, and then he walked to that man and said, \"Son, it is cat's instincts that makes him scratch and to hurt, and it is my job to love and care\"",
+      "explicit_formulation": "Helping others is a moral duty, even if they react negatively out of fear or instinct."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "he just continued saving that animal until he finally succeeded, and then he walked to that man and said, \"Son, it is cat's instincts that makes him scratch and to hurt, and it is my job to love and care\"",
+      "explicit_formulation": "Persistence in helping others can lead to successful outcomes despite initial setbacks."
+    }
+  ]
+}

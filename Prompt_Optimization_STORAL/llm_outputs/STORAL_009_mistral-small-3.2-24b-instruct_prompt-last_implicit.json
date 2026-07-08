@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Work with faith and the lord will help you, Said their neighbor, the dog. What can we do? Asked the hen. The dog replied, You must work harder. you both are expert spinners, embroiders and sewers. work for some extra hours and you will earn more than you have done up to now. also decrease your expenses. put aside what you earn in your extra-work hours and soon you will have enough money to buy a good cow.",
+      "explicit_formulation": "Hard work and careful saving can help overcome financial difficulties."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Work with faith and the lord will help you, Said their neighbor, the dog. What can we do? Asked the hen. The dog replied, You must work harder. you both are expert spinners, embroiders and sewers. work for some extra hours and you will earn more than you have done up to now. also decrease your expenses. put aside what you earn in your extra-work hours and soon you will have enough money to buy a good cow.",
+      "explicit_formulation": "Increasing income and reducing expenses can lead to financial stability."
+    }
+  ]
+}

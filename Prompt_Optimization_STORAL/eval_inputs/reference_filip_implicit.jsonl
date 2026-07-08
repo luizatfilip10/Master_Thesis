@@ -1,0 +1,4 @@
+{"id": "STORAL_004", "labels": [{"label": "MC-IMP", "start": 633, "end": 731}, {"label": "P-IMP", "start": 489, "end": 590}, {"label": "P-IMP", "start": 105, "end": 230}]}
+{"id": "STORAL_009", "labels": [{"label": "MC-IMP", "start": 794, "end": 912}, {"label": "P-IMP", "start": 731, "end": 789}, {"label": "C-IMP", "start": 442, "end": 730}, {"label": "C-IMP", "start": 316, "end": 361}, {"label": "P-IMP", "start": 56, "end": 205}]}
+{"id": "STORAL_013", "labels": [{"label": "P-IMP", "start": 1165, "end": 1299}, {"label": "P-IMP", "start": 1604, "end": 1772}, {"label": "P-IMP", "start": 766, "end": 1024}, {"label": "MC-IMP", "start": 1513, "end": 1601}]}
+{"id": "STORAL_019", "labels": [{"label": "P-IMP", "start": 1387, "end": 1963}, {"label": "MC-IMP", "start": 1987, "end": 2081}, {"label": "P-IMP", "start": 2092, "end": 2157}, {"label": "P-IMP", "start": 567, "end": 1077}]}
