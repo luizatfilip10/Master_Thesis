@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "now with all those animals out of house, it feels more spacious and all of us can't help but being pleased and uncomplaining about space in house",
+      "explicit_formulation": "Appreciation for one's current situation often comes from experiencing a worse alternative."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "now with all those animals out of house, it feels more spacious",
+      "explicit_formulation": "Contrast is an effective way to change a person's perception of their circumstances."
+    }
+  ]
+}

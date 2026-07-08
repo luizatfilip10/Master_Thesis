@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "I feel that because of that snake in wine something has happened to my health.",
+      "explicit_formulation": "Believing one has been harmed can lead to actual physical symptoms."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Since whole truth came out, his friend recovered from his prolonged illness right away.",
+      "explicit_formulation": "The mind can cause physical illness based on false beliefs, and rational understanding can cure it."
+    }
+  ]
+}

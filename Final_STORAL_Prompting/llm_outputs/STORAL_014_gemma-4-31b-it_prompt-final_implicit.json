@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "Both group of dragons had hatred for each other and once wings change they will remain like that forever and dragon have to had hatred for other for rest of his life",
+      "explicit_formulation": "Forced categorization into opposing groups leads to lifelong conflict."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Brad would not decorate fields with his frosty breath and would remind world that its not necessary to chose between day and night when you don't want to hate",
+      "explicit_formulation": "One does not have to conform to divisive binaries if it requires harboring hatred."
+    }
+  ]
+}

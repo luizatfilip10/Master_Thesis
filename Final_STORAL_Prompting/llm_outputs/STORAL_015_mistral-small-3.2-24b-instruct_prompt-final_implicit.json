@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Since whole truth came out, his friend recovered from his prolonged illness right away.",
+      "explicit_formulation": "The truth can have a healing effect and resolve misunderstandings."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Lee laughed and kept glass back and then removed bow that was hung on wall of his room with a painted snake on it.",
+      "explicit_formulation": "The cause of the friend's illness was a visual illusion created by the painted snake on the bow."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Lee was puzzled to hear this. He asked his friend to take care and went back to home and look into matter.",
+      "explicit_formulation": "Lee took the friend's concerns seriously and investigated the matter thoroughly."
+    }
+  ]
+}

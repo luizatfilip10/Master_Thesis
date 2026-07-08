@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "Soon monkey became main attraction and parrots were neglected.",
+      "explicit_formulation": "External favor and attention are inherently unstable and easily diverted by novelty."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Young parrot became sad and depressed.",
+      "explicit_formulation": "Emotional stability is compromised when happiness depends entirely on external validation."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Soon, monkey started to create trouble in palace and then one day little prince got so afraid of monkey that he ordered his servants to sent that monkey back into jungle. Next day, monkey was sent to jungle and again parrots again became main attraction of palace",
+      "explicit_formulation": "One should maintain patience and emotional resilience during difficult periods because unfavorable circumstances are temporary and will eventually change."
+    }
+  ]
+}

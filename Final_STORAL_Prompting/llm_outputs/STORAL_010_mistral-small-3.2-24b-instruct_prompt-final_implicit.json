@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The earthen pot could not survive that sort of companionship very long. They had not gone ten paces before the earthen pot cracked, and at the next jolt he flew into a thousand pieces.",
+      "explicit_formulation": "Overconfidence in protection can lead to unexpected failure."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "I shall take very good care of you. if we should happen to meet anything hard I will step between and save you.",
+      "explicit_formulation": "You can trust someone else to protect you."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "It would take so little to break me. You know how fragile I am. the least shock is sure to shatter me!",
+      "explicit_formulation": "You should be aware of your own limitations."
+    }
+  ]
+}

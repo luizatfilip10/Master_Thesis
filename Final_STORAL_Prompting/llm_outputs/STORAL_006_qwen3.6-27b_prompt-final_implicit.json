@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Cat said without thinking even once. Cat then climbed into lion's throat and looked and looked but couldn't find the bone. Then, with one silent bite, lion swallowed jack the cat whole!",
+      "explicit_formulation": "Acting impulsively without considering the consequences can lead to ruin."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Lion spoke with a mysterious glint in his eyes.",
+      "explicit_formulation": "A seemingly simple request from an adversary may actually be a deliberate trap."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Time never stays same. therefore, you should never get depressed because of unfavorable time.",
+      "explicit_formulation": "One should remain patient and resilient during difficult times as circumstances can change."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Soon, monkey started to create trouble in palace and then one day little prince got so afraid of monkey that he ordered his servants to sent that monkey back into jungle.",
+      "explicit_formulation": "Unpredictable events can lead to changes in circumstances."
+    }
+  ]
+}

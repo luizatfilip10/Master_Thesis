@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "He brought several slices of meat with himself to trick the house-dog.",
+      "explicit_formulation": "Temptations are often used to undermine someone's commitment or duty."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "I am a faithful house-dog. you cannot fool me and harm my master.",
+      "explicit_formulation": "True loyalty and dedication cannot be bought or compromised by bribes."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Then he praised his dog and gave him two more pieces of meat to eat as a reward.",
+      "explicit_formulation": "Steadfast loyalty and protective behavior deserve recognition and reward."
+    }
+  ]
+}

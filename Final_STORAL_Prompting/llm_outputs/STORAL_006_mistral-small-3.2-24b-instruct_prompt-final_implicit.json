@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Cat then climbed into lion's throat and looked and looked but couldn't find the bone. Then, with one silent bite, lion swallowed jack the cat whole!",
+      "explicit_formulation": "Arrogance and overconfidence can lead to one's downfall."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Cat said, \"Well you don't have to be snotty about it! just because I'm better than you does not mean you have to be a brat about it!\"",
+      "explicit_formulation": "Arrogance can provoke negative reactions from others."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "\"Ya, right corny de' lion! give me any request you want and I shall fulfill it!\"",
+      "explicit_formulation": "Overconfidence can lead to making reckless decisions."
+    }
+  ]
+}

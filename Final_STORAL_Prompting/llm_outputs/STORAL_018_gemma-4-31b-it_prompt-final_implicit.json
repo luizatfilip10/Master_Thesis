@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "he observed nothing as he his only concern was to save that oil from spilling from spoon",
+      "explicit_formulation": "Focusing exclusively on responsibilities can prevent a person from experiencing the beauty of life."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "he found that all the oil was gone from the spoon while he was busy admiring beauty",
+      "explicit_formulation": "Focusing exclusively on pleasure can lead to the neglect of important duties."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "secret of happiness is to see all the beauty and marvels of world but never to forget the drops of oil on the spoon",
+      "explicit_formulation": "True happiness is achieved by maintaining a balance between enjoying life's beauty and fulfilling one's responsibilities."
+    }
+  ]
+}

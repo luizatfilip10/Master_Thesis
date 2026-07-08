@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Then, with one silent bite, lion swallowed jack the cat whole!",
+      "explicit_formulation": "Overconfidence and arrogance can lead to one's own downfall."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "'Sure!' Cat said without thinking even once.",
+      "explicit_formulation": "Acting impulsively without considering the risks can be dangerous."
+    }
+  ]
+}

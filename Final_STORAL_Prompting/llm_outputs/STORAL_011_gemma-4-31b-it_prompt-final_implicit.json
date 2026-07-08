@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "Faster swami ji ran, bolder monkey got and tried to catch him and bite him",
+      "explicit_formulation": "Running away from a threat often increases the aggression of the attacker."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Swami ji turned back to boldly face those monkeys. As soon as swami ji did that, those monkey fell back and left.",
+      "explicit_formulation": "Facing your fears with courage is the most effective way to overcome them."
+    }
+  ]
+}

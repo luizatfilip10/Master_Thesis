@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "God replied, \"God's purpose are always just. you thought that devoting yourself to god means you can judge other's. because of this while you filled your heart with impurity of other's sin.that lady shed away her sin with pure repentance and her soul was so light that she went to heaven and you soul weighed down with stones is too heavy to lift..\"",
+      "explicit_formulation": "True devotion to God involves humility and compassion, not judgment and self-righteousness."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Monk thought to himself, \"From now on, I will keep the count of number of men going in that house until sinner dies.\"",
+      "explicit_formulation": "The monk believed that keeping track of the lady's sins would help her repent."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Monk noticed that larger number of men visited her and due to this monk decided to speak to her.",
+      "explicit_formulation": "The monk felt it was his duty to intervene in the lady's life to correct her behavior."
+    }
+  ]
+}

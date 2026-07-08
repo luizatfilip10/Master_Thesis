@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "that lady shed away her sin with pure repentance and her soul was so light that she went to heaven",
+      "explicit_formulation": "Sincere repentance is a path to spiritual redemption."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "you thought that devoting yourself to god means you can judge other's. because of this while you filled your heart with impurity of other's sin",
+      "explicit_formulation": "Focusing on the faults of others leads to spiritual impurity."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "you thought that devoting yourself to god means you can judge other's. because of this while you filled your heart with impurity of other's sin.that lady shed away her sin with pure repentance and her soul was so light that she went to heaven and you soul weighed down with stones is too heavy to lift..",
+      "explicit_formulation": "Judging others is a spiritual failure that can outweigh outward religious devotion."
+    }
+  ]
+}

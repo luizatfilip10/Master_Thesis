@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "I am a faithful house-dog. you cannot fool me and harm my master.",
+      "explicit_formulation": "Loyalty and vigilance protect against harm."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "The thief throws another piece of meat at the dog. The dog doesn't pick up the piece of meat and replies,",
+      "explicit_formulation": "A faithful dog will not be tempted by bribes."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "\"Well, young man.. there is only one advice I can give you.. secret of happiness is to see all the beauty and marvels of world but never to forget the drops of oil on the spoon\", said wise man.",
+      "explicit_formulation": "The secret of happiness is to enjoy life's beauties while not neglecting your responsibilities."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Young man had to wait for hours for his turn to meet wise man.",
+      "explicit_formulation": "You must be patient to gain wisdom."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "Wise man listened to him and said, \"I will answer you later.. meanwhile you look around castle and return after 3 hours.\"",
+      "explicit_formulation": "You must experience things firsthand to understand them fully."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "\"Well, my dear.. tell me did you saw beautiful carving on the walls of castle?? did you saw beautiful garden?\"",
+      "explicit_formulation": "You should appreciate the beauty around you."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "\"Now, again go around the castle carrying this spoon with oil but this time see and enjoy beauty of castle too..\"",
+      "explicit_formulation": "You can balance responsibilities and enjoyment."
+    }
+  ]
+}

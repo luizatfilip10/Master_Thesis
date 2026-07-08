@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Finally, younger brother realized that he should never lose his patience under unfavorable conditions.",
+      "explicit_formulation": "Patience and resilience are essential for enduring the unpredictable changes of life."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "nothing in world is permanent and you will see that things will change soon.",
+      "explicit_formulation": "Current hardships are temporary."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Soon, monkey started to create trouble in palace and then one day little prince got so afraid of monkey that he ordered his servants to sent that monkey back into jungle.",
+      "explicit_formulation": "Disruptive behavior leads to the loss of favor."
+    }
+  ]
+}

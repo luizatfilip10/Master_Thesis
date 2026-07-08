@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The lamb replied, \"I am fond of music. before I die, I wish to hear you play the flute.\"",
+      "explicit_formulation": "Using clever tactics can help overcome a stronger adversary."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "The wolf was pleased by the flattery and started to play louder.",
+      "explicit_formulation": "Flattery can distract and overconfidence can lead to downfall."
+    }
+  ]
+}

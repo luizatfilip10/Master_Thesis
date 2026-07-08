@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "I am a faithful house-dog. you cannot fool me and harm my master.",
+      "explicit_formulation": "Loyalty involves prioritizing the safety of others over personal gain."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Then he praised his dog and gave him two more pieces of meat to eat as a reward.",
+      "explicit_formulation": "Faithfulness and integrity are eventually rewarded."
+    }
+  ]
+}

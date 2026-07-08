@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "you thought that devoting yourself to god means you can judge other's. because of this while you filled your heart with impurity of other's sin.that lady shed away her sin with pure repentance and her soul was so light that she went to heaven and you soul weighed down with stones is too heavy to lift..",
+      "explicit_formulation": "Judging others burdens the soul, while sincere repentance brings spiritual freedom."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "you thought that devoting yourself to god means you can judge other's. because of this while you filled your heart with impurity of other's sin.",
+      "explicit_formulation": "Focusing on the faults of others corrupts one's own moral character."
+    }
+  ]
+}

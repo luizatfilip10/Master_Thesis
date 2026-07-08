@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "I shall take very good care of you. if we should happen to meet anything hard I will step between and save you.",
+      "explicit_formulation": "External protection cannot always compensate for inherent fragility."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The earthen pot could not survive that sort of companionship very long. They had not gone ten paces before the earthen pot cracked, and at the next jolt he flew into a thousand pieces.",
+      "explicit_formulation": "Associating with those who are fundamentally different in nature can be dangerous."
+    }
+  ]
+}

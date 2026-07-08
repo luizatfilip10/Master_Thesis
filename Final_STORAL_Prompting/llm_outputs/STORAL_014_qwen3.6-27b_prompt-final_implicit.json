@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "Both group of dragons had hatred for each other and once wings change they will remain like that forever and dragon have to had hatred for other for rest of his life.",
+      "explicit_formulation": "Rigid societal divisions often compel individuals to adopt lasting hatred towards opposing groups."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "remind world that its not necessary to chose between day and night when you don't want to hate.",
+      "explicit_formulation": "Rejecting forced binary choices that demand hatred allows for a more balanced and peaceful existence."
+    }
+  ]
+}

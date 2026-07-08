@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The wolf was pleased by the flattery and started to play louder. In the mean time, the shepherd and the dogs who were in search of the missing lamb heard the sound. They came running and caught hold of the wolf. The lamb happily trotted away to his flock.",
+      "explicit_formulation": "Quick thinking and cleverness can overcome physical strength and save one from danger."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "The wolf was pleased by the flattery and started to play louder.",
+      "explicit_formulation": "Pride and vanity can make powerful individuals vulnerable to manipulation."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "Since whole truth came out, his friend recovered from his prolonged illness right away.",
+      "explicit_formulation": "Revealing the truth behind a misunderstanding can cure the distress it causes."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "I noticed that there was small snake lying in wine glass.since then, I am not able to feel well.",
+      "explicit_formulation": "Fear of an imagined threat can cause real physical and psychological harm."
+    },
+    {
+      "label": "C-IMP",
+      "supporting_span": "Lee laughed and kept glass back and then removed bow that was hung on wall of his room with a painted snake on it.",
+      "explicit_formulation": "Careful investigation can distinguish between reality and illusion."
+    }
+  ]
+}

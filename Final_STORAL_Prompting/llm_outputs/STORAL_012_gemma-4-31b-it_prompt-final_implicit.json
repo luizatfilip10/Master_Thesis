@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "the snails refused to be treated like tennis balls",
+      "explicit_formulation": "Living creatures should not be used as toys."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "after so much time spent searching, the animals had tired themselves out, and everyone who started playing was soon lying asleep on the court!",
+      "explicit_formulation": "Spending too much time on preparation can prevent the actual goal from being achieved."
+    }
+  ]
+}

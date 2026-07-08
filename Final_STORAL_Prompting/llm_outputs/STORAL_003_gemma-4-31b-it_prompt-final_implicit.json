@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "The lion laughed at him but allowed him to go.",
+      "explicit_formulation": "The powerful often underestimate the capabilities of those who seem weaker."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming: 'You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor.'",
+      "explicit_formulation": "No one is too small to be of help to others."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "MC-IMP",
+      "supporting_span": "now take all the animal outside your house and keep them in yard.",
+      "explicit_formulation": "Removing unnecessary elements can create more space and improve living conditions."
+    },
+    {
+      "label": "P-IMP",
+      "supporting_span": "This time nasrudin said, 'Don't worry everything will be fine. now take all the animal outside your house and keep them in yard.'",
+      "explicit_formulation": "Sometimes, adding more problems can help you realize the severity of the original problem."
+    }
+  ]
+}

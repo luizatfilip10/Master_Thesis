@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "label": "P-IMP",
+      "supporting_span": "will you play a bit louder, please?",
+      "explicit_formulation": "Loud noises can attract the attention of others."
+    },
+    {
+      "label": "MC-IMP",
+      "supporting_span": "The wolf was pleased by the flattery and started to play louder. In the mean time, the shepherd and the dogs who were in search of the missing lamb heard the sound. They came running and caught hold of the wolf.",
+      "explicit_formulation": "Intelligence and quick thinking can overcome physical strength."
+    }
+  ]
+}
