@@ -1,0 +1,7 @@
+Layer,Model,Relaxed F1,Overlap F1,Char-offset F1,Sentence F1,Average
+Argumentation,Gemma,0.322,0.331,0.319,0.350,0.330
+Argumentation,Qwen,0.245,0.231,0.252,0.248,0.244
+Argumentation,Mistral,0.241,0.241,0.237,0.252,0.243
+Narration,Qwen,0.469,0.417,0.436,0.457,0.445
+Narration,Gemma,0.447,0.417,0.452,0.435,0.438
+Narration,Mistral,0.362,0.320,0.376,0.399,0.364
