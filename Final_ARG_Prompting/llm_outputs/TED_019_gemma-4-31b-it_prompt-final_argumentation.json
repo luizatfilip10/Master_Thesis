@@ -1,0 +1,124 @@
+{
+  "annotations": [
+    {
+      "label": "P-EXP",
+      "text": "it's very difficult to eliminate multiple genes from a cell"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we had to take a synthetic route"
+    },
+    {
+      "label": "P-EXP",
+      "text": "so we could actually vary the gene content to understand the essential genes for life"
+    },
+    {
+      "label": "P-EXP",
+      "text": "it hadn't been done before"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we at least have the means then to try and make serially lots of these pieces to be able to eventually assemble them together to make this mega base chromosome"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the synthesis would be the biggest problem"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the small cell took on the order of one to two months to get results from, whereas the larger, faster-growing cell takes only two days"
+    },
+    {
+      "label": "P-EXP",
+      "text": "there's only so many cycles we could go through in a year at six weeks per cycle"
+    },
+    {
+      "label": "C-EXP",
+      "text": "this was a debugging, problem-solving scenario from the beginning"
+    },
+    {
+      "label": "P-EXP",
+      "text": "there was no recipe of how to get there"
+    },
+    {
+      "label": "C-EXP",
+      "text": "that was one of the most important papers that we've ever done"
+    },
+    {
+      "label": "P-EXP",
+      "text": "it showed how dynamic life was"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we actually had a chance if we could make the synthetic chromosomes to do the same with those"
+    },
+    {
+      "label": "P-EXP",
+      "text": "cells have all kinds of unique defense mechanisms to keep these events from happening"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we had to find out how to get a bacterial chromosome out of the eukaryotic yeast into a form where we could transplant it into a recipient cell"
+    },
+    {
+      "label": "C-EXP",
+      "text": "if we took the chromosome out of yeast and methylated it, we could then transplant it"
+    },
+    {
+      "label": "C-EXP",
+      "text": "accuracy is essential"
+    },
+    {
+      "label": "P-EXP",
+      "text": "There's parts of the genome where it cannot tolerate even a single error"
+    },
+    {
+      "label": "C-EXP",
+      "text": "one of the tenets of this field was to make absolutely certain we could distinguish synthetic DNA from natural DNA"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the worst problem would be a single molecule contamination of the native chromosome"
+    },
+    {
+      "label": "C-EXP",
+      "text": "it's clear they were mathematicians and not biologists"
+    },
+    {
+      "label": "P-EXP",
+      "text": "if you write long messages with the code that the mathematicians developed, it would more than likely lead to new proteins being synthesized with unknown functions"
+    },
+    {
+      "label": "C-EXP",
+      "text": "this is as much a philosophical advance as a technical advance in science"
+    },
+    {
+      "label": "C-EXP",
+      "text": "open publication, which is the right approach"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Perhaps it's a giant philosophical change in how we view life"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "this is going to be a very powerful set of tools"
+    },
+    {
+      "label": "P-EXP",
+      "text": "instead of taking weeks to months to make these, Dan's team can now make these in less than 24 hours"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we can shorten that process quite substantially"
+    },
+    {
+      "label": "C-EXP",
+      "text": "these tools can affect vaccines to diseases that haven't been possible to date"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We need some alternatives for oil"
+    }
+  ]
+}

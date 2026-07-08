@@ -1,0 +1,252 @@
+{
+  "annotations": [
+    {
+      "label": "MC-EXP",
+      "text": "the secret to producing extremely drought-tolerant crops, which should go some way to providing food security in the world, lies in resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "producing drought-tolerant crops will go towards providing food security"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the current world population is around 7 billion. And it's estimated that by 2050, we'll be between 9 and 10 billion people, with the bulk of this growth happening in Africa"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the food and agricultural organizations of the world have suggested that we need a 70 percent increase in current agricultural practice to meet that demand"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Given that plants are at the base of the food chain, most of that's going to have to come from plants"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the areas in red shown here, are areas that until recently have been very successfully used for agriculture, but cannot anymore because of lack of rainfall"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We're going to have to think of some very smart ways of producing food"
+    },
+    {
+      "label": "C-EXP",
+      "text": "And preferably among them, some drought-tolerant crops"
+    },
+    {
+      "label": "P-EXP",
+      "text": "most of their agriculture is rainfed"
+    },
+    {
+      "label": "C-EXP",
+      "text": "making drought-tolerant crops is not the easiest thing in the world"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Water is essential to life on this planet"
+    },
+    {
+      "label": "P-EXP",
+      "text": "You and I are 65 percent water — we lose one percent of that, we die"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Plants can't. They're stuck in the ground"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they can lose a little bit more than us, like 10 to about 70 percent, depending on the species, but for short periods only"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Most of them will either try to resist or avoid water loss"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they hold onto their water at such great cost that they grow extremely slowly"
+    },
+    {
+      "label": "P-EXP",
+      "text": "They send down very deep roots, mine subterranean water supplies and just keep flushing it through them at all times, keeping themselves hydrated"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the proportion of roots to shoots is so great that it looks like the tree has been planted upside down"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the roots are required for hydration of that plant"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the strategy in annuals, is to grow only in the rainy season"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they produce a seed, which is dry, eight to 10 percent water, but very much alive"
+    },
+    {
+      "label": "P-EXP",
+      "text": "In the desiccated state, what seeds can do is lie in extremes of environment for prolonged periods of time"
+    },
+    {
+      "label": "P-EXP",
+      "text": "it's widely believed that the evolution of desiccation-tolerant seeds allowed the colonization and the radiation of flowering plants, or angiosperms, onto land"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Wheat, rice and maize form 95 percent of our plant food supplies"
+    },
+    {
+      "label": "P-EXP",
+      "text": "it's been a great strategy because in a short space of time you can produce a lot of seed"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Seeds are energy-rich so there's a lot of food calories, you can store it in times of plenty for times of famine"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the vegetative tissues, the roots and leaves of annuals, do not have much by way of inherent resistance, avoidance or tolerance characteristics"
+    },
+    {
+      "label": "P-EXP",
+      "text": "despite concerted efforts in agriculture to make crops with improved properties of resistance, avoidance and tolerance — particularly resistance and avoidance because we've had good models to understand how those work — we still get images like this"
+    },
+    {
+      "label": "C-EXP",
+      "text": "There is a solution: resurrection plants"
+    },
+    {
+      "label": "P-EXP",
+      "text": "These plants can lose 95 percent of their cellular water, remain in a dry, dead-like state for months to years, and give them water, they green up and start growing again"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Like seeds, these are desiccation-tolerant"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Like seeds, these can withstand extremes of environmental conditions"
+    },
+    {
+      "label": "P-EXP",
+      "text": "there are only 135 flowering plant species that can do this"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I've spent the last 21 years trying to understand how they do this"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I work on a variety of different resurrection plants"
+    },
+    {
+      "label": "P-EXP",
+      "text": "each of these plants serves as a model for a crop that I'd like to make drought-tolerant"
+    },
+    {
+      "label": "P-EXP",
+      "text": "I wanted to find out: do they do the same thing? Do they all use the same mechanisms to be able to lose all that water and not die?"
+    },
+    {
+      "label": "P-EXP",
+      "text": "we look at the genes that are switched on or off, in response to drying"
+    },
+    {
+      "label": "P-EXP",
+      "text": "What are the proteins made in response to drying?"
+    },
+    {
+      "label": "P-EXP",
+      "text": "we look at the metabolome"
+    },
+    {
+      "label": "P-EXP",
+      "text": "plants are stuck in the ground. They use what I call a highly tuned chemical arsenal to protect themselves from all the stresses of their environment"
+    },
+    {
+      "label": "P-EXP",
+      "text": "we look at the lipidome — the lipid changes in response to drying"
+    },
+    {
+      "label": "P-EXP",
+      "text": "all biological membranes are made of lipids. They're held as membranes because they're in water. Take away the water, those membranes fall apart"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Lipids also act as signals to turn on genes"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I've always had the philosophy that I needed a comprehensive understanding of the mechanisms of desiccation tolerance in order to make a meaningful suggestion for a biotic application"
+    },
+    {
+      "label": "C-EXP",
+      "text": "All of the crops that we eat today, wheat, rice and maize, are highly genetically modified from their ancestors, but we don't consider them GM because they're being produced by conventional breeding"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we're about to embark upon an extremely ambitious approach, in which we aim to turn on whole suites of genes that are already present in every crop"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they're just never turned on under extreme drought conditions"
+    },
+    {
+      "label": "P-EXP",
+      "text": "we use an inducible promoter, we know how to switch it on"
+    },
+    {
+      "label": "P-EXP",
+      "text": "we've used it to drive antioxidant genes from resurrection plants"
+    },
+    {
+      "label": "P-EXP",
+      "text": "all stresses, particularly drought stress, results in the formation of free radicals, or reactive oxygen species, which are highly damaging and can cause crop death"
+    },
+    {
+      "label": "P-EXP",
+      "text": "What antioxidants do is stop that damage"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the ones with the genes do a hell of a lot better"
+    },
+    {
+      "label": "C-EXP",
+      "text": "there's considerable similarity in the mechanisms of desiccation tolerance in seeds and resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "are they using the same genes?"
+    },
+    {
+      "label": "C-EXP",
+      "text": "are resurrection plants using genes evolved in seed desiccation tolerance in their roots and leaves?"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Have they retasked these seed genes in roots and leaves of resurrection plants?"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the answer is yes, that there is a core set of genes that are involved in both"
+    },
+    {
+      "label": "P-EXP",
+      "text": "All modern crops, therefore, have these genes in their roots and leaves, they just never switch them on"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they only switch them on in seed tissues"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we're trying to understand the environmental and cellular signals that switch on these genes in resurrection plants, to mimic the process in crops"
+    },
+    {
+      "label": "C-EXP",
+      "text": "What we're trying to do very rapidly is to repeat what nature did in the evolution of resurrection plants some 10 to 40 million years ago"
+    }
+  ]
+}

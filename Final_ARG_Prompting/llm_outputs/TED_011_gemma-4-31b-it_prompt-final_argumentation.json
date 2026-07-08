@@ -1,0 +1,68 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "in the communication of science, there is this obsession with seriousness"
+    },
+    {
+      "label": "P-EXP",
+      "text": "I was always told never to use stories or fun, engaging language, because then my work might not be viewed as \"serious\" and \"scientific\""
+    },
+    {
+      "label": "C-EXP",
+      "text": "if a textbook seems too much fun, it's somehow unscientific"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the language in their textbook was truly incomprehensible"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Bacteriophage replication is initiated through the introduction of viral nucleic acid into a bacterium"
+    },
+    {
+      "label": "C-EXP",
+      "text": "science communication has taken on this idea of what I call the tyranny of precision, where you can't just tell a story"
+    },
+    {
+      "label": "C-EXP",
+      "text": "good storytelling is all about emotional connection"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We have to convince our audience that what we're talking about matters"
+    },
+    {
+      "label": "C-EXP",
+      "text": "knowing which details we should leave out so that the main point still comes across"
+    },
+    {
+      "label": "C-EXP",
+      "text": "sometimes, you have to lie in order to tell the truth"
+    },
+    {
+      "label": "C-EXP",
+      "text": "this sentiment is particularly relevant to science education"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I'm not advocating a dumbing down of science"
+    },
+    {
+      "label": "C-EXP",
+      "text": "detailed, specific scientific communication between experts, but not when we're trying to teach 13-year-olds"
+    },
+    {
+      "label": "P-EXP",
+      "text": "If a young learner thinks that all viruses have DNA, that's not going to ruin their chances of success in science"
+    },
+    {
+      "label": "P-EXP",
+      "text": "if a young learner can't understand anything in science and learns to hate it because it all sounds like this, that will ruin their chances of success"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "this is the right way we should be communicating science"
+    }
+  ]
+}

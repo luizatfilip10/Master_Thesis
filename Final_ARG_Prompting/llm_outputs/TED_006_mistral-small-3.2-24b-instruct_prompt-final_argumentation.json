@@ -1,0 +1,104 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "I'm a molecular animator, and I work with other researchers to create visualizations of molecules that are so small, they're essentially invisible"
+    },
+    {
+      "label": "P-EXP",
+      "text": "These molecules are smaller than the wavelength of light, which means that we can never see them directly, even with the best light microscopes"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Scientists, like my collaborators, can spend their entire professional careers working to understand one molecular process"
+    },
+    {
+      "label": "P-EXP",
+      "text": "One kind of experiment can tell us about the protein shape, while another can tell us about what other proteins it might interact with, and another can tell us about where it can be found in a cell"
+    },
+    {
+      "label": "C-EXP",
+      "text": "all of these bits of information can be used to come up with a hypothesis, a story, essentially, of how a molecule might work"
+    },
+    {
+      "label": "C-EXP",
+      "text": "My job is to take these ideas and turn them into an animation"
+    },
+    {
+      "label": "P-EXP",
+      "text": "these animations can be incredibly useful for researchers to communicate their ideas of how these molecules work"
+    },
+    {
+      "label": "P-EXP",
+      "text": "They can also allow us to see the molecular world through their eyes"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the cell is this incredibly changing, dynamic place, where things are constantly being built and disassembled"
+    },
+    {
+      "label": "C-EXP",
+      "text": "special forces need to be brought in in order to make sure that structures are taken apart in a timely manner"
+    },
+    {
+      "label": "P-EXP",
+      "text": "When these kinds of proteins don't work properly, the types of proteins that are supposed to get taken apart can sometimes stick together and aggregate and that can give rise to terrible diseases, such as Alzheimer's"
+    },
+    {
+      "label": "C-EXP",
+      "text": "DNA is wound around proteins called histones, which enable cells to pack large amounts of DNA into our nucleus"
+    },
+    {
+      "label": "C-EXP",
+      "text": "These machines are called chromatin remodelers, and the way they work is that they basically scoot the DNA around these histones and they allow new pieces of DNA to become exposed"
+    },
+    {
+      "label": "C-EXP",
+      "text": "This DNA can then be recognized by other machinery"
+    },
+    {
+      "label": "C-EXP",
+      "text": "this large molecular machine is looking for a segment of DNA that tells it it's at the beginning of a gene"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Once it finds a segment, it basically undergoes a series of shape changes which enables it to bring in other machinery that in turn allows a gene to get turned on or transcribed"
+    },
+    {
+      "label": "C-EXP",
+      "text": "this has to be a very tightly regulated process, because turning on the wrong gene at the wrong time can have disastrous consequences"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Scientists are now able to use protein machines to edit genomes"
+    },
+    {
+      "label": "P-EXP",
+      "text": "CRISPR takes advantage of a protein known as Cas9, which can be engineered to recognize and cut a very specific sequence of DNA"
+    },
+    {
+      "label": "C-EXP",
+      "text": "For example, a part of a gene that may give rise to a disease"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Cellular machinery is then used to basically glue two ends of the DNA back together"
+    },
+    {
+      "label": "C-EXP",
+      "text": "one of my biggest challenges is visualizing uncertainty"
+    },
+    {
+      "label": "P-EXP",
+      "text": "All of the animations I've shown to you represent hypotheses, how my collaborators think a process works, based on the best information that they have"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the truth is that these invisible molecular worlds are vast and largely unexplored"
+    },
+    {
+      "label": "C-EXP",
+      "text": "To me, these molecular landscapes are just as exciting to explore as a natural world that's visible all around us"
+    }
+  ]
+}

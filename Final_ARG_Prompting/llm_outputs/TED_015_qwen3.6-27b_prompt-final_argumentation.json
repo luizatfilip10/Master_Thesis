@@ -1,0 +1,52 @@
+{
+  "annotations": [
+    {
+      "label": "MC-EXP",
+      "text": "the secret to producing extremely drought-tolerant crops, which should go some way to providing food security in the world, lies in resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We're going to have to think of some very smart ways of producing food. And preferably among them, some drought-tolerant crops."
+    },
+    {
+      "label": "P-EXP",
+      "text": "The food and agricultural organizations of the world have suggested that we need a 70 percent increase in current agricultural practice to meet that demand."
+    },
+    {
+      "label": "P-EXP",
+      "text": "That percentage of 70 percent does not take into consideration the potential effects of climate change."
+    },
+    {
+      "label": "C-EXP",
+      "text": "The vegetative tissues, the roots and leaves of annuals, do not have much by way of inherent resistance, avoidance or tolerance characteristics."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Water is essential to life on this planet."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Plants can't. They're stuck in the ground."
+    },
+    {
+      "label": "C-EXP",
+      "text": "I've always had the philosophy that I needed a comprehensive understanding of the mechanisms of desiccation tolerance in order to make a meaningful suggestion for a biotic application."
+    },
+    {
+      "label": "P-EXP",
+      "text": "all stresses, particularly drought stress, results in the formation of free radicals, or reactive oxygen species, which are highly damaging and can cause crop death."
+    },
+    {
+      "label": "P-EXP",
+      "text": "After three weeks without watering, the ones with the genes do a hell of a lot better."
+    },
+    {
+      "label": "C-EXP",
+      "text": "All modern crops, therefore, have these genes in their roots and leaves, they just never switch them on."
+    },
+    {
+      "label": "C-EXP",
+      "text": "So what we're trying to do right now is to understand the environmental and cellular signals that switch on these genes in resurrection plants, to mimic the process in crops."
+    }
+  ]
+}

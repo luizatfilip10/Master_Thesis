@@ -1,0 +1,24 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "there's good people everywhere"
+    },
+    {
+      "label": "C-EXP",
+      "text": "All it takes in one person to mess it up."
+    },
+    {
+      "label": "C-EXP",
+      "text": "one thing I try to do with my stand-up is break stereotypes"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "I try, with my stand-up, to break stereotypes, present Middle Easterners and Muslims in a positive light."
+    },
+    {
+      "label": "C-EXP",
+      "text": "more film and television programs come out of Hollywood, presenting us in a positive light"
+    }
+  ]
+}

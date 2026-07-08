@@ -1,0 +1,88 @@
+{
+  "annotations": [
+    {
+      "label": "MC-EXP",
+      "text": "the secret to producing extremely drought-tolerant crops, which should go some way to providing food security in the world, lies in resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "producing drought-tolerant crops will go towards providing food security"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Given that plants are at the base of the food chain, most of that's going to have to come from plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Much of Africa, in fact, much of the world, is going to be in trouble"
+    },
+    {
+      "label": "P-EXP",
+      "text": "increased aridity due to lack of rain or infrequent rain"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We're going to have to think of some very smart ways of producing food"
+    },
+    {
+      "label": "C-EXP",
+      "text": "preferably among them, some drought-tolerant crops"
+    },
+    {
+      "label": "C-EXP",
+      "text": "making drought-tolerant crops is not the easiest thing in the world"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the reason for this is water"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Plants can't"
+    },
+    {
+      "label": "P-EXP",
+      "text": "They're stuck in the ground"
+    },
+    {
+      "label": "C-EXP",
+      "text": "The vegetative tissues, the roots and leaves of annuals, do not have much by way of inherent resistance, avoidance or tolerance characteristics"
+    },
+    {
+      "label": "P-EXP",
+      "text": "They just don't need them. They grow in the rainy season and they've got a seed to help them survive the rest of the year"
+    },
+    {
+      "label": "C-EXP",
+      "text": "There is a solution: resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I needed a comprehensive understanding of the mechanisms of desiccation tolerance in order to make a meaningful suggestion for a biotic application"
+    },
+    {
+      "label": "P-EXP",
+      "text": "all stresses, particularly drought stress, results in the formation of free radicals, or reactive oxygen species, which are highly damaging and can cause crop death"
+    },
+    {
+      "label": "P-EXP",
+      "text": "What antioxidants do is stop that damage"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the ones with the genes do a hell of a lot better"
+    },
+    {
+      "label": "C-EXP",
+      "text": "there's considerable similarity in the mechanisms of desiccation tolerance in seeds and resurrection plants"
+    },
+    {
+      "label": "C-EXP",
+      "text": "there is a core set of genes that are involved in both"
+    },
+    {
+      "label": "C-EXP",
+      "text": "All modern crops, therefore, have these genes in their roots and leaves, they just never switch them on"
+    }
+  ]
+}

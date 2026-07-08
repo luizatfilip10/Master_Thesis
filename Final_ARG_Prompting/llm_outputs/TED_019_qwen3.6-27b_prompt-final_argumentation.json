@@ -1,0 +1,32 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "open publication, which is the right approach"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "we actually believe this is going to be a very powerful set of tools"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Because instead of taking weeks to months to make these, Dan's team can now make these in less than 24 hours."
+    },
+    {
+      "label": "C-EXP",
+      "text": "we think we can shorten that process quite substantially"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we think these tools can affect vaccines to diseases that haven't been possible to date"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We need some alternatives for oil."
+    },
+    {
+      "label": "P-EXP",
+      "text": "We have a program with Exxon Mobile to try and develop new strains of algae that can efficiently capture carbon dioxide from the atmosphere or from concentrated sources, make new hydrocarbons that can go into their refineries to make normal gasoline and diesel fuel out of CO2."
+    }
+  ]
+}

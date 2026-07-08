@@ -1,0 +1,24 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "these animations can be incredibly useful for researchers to communicate their ideas of how these molecules work"
+    },
+    {
+      "label": "P-EXP",
+      "text": "They can also allow us to see the molecular world through their eyes"
+    },
+    {
+      "label": "C-EXP",
+      "text": "This has to be a very tightly regulated process"
+    },
+    {
+      "label": "P-EXP",
+      "text": "turning on the wrong gene at the wrong time can have disastrous consequences"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "these molecular landscapes are just as exciting to explore as a natural world that's visible all around us"
+    }
+  ]
+}

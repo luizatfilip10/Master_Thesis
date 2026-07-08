@@ -1,0 +1,80 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "What started as a way to identify those who needed academic help quickly became used to sort people in other ways, often in service of deeply flawed ideologies."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Under the influence of eugenics, scientists used the results of the military initiative to make erroneous claims that certain racial groups were intellectually superior to others."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Without taking into account that many of the recruits tested were new immigrants to the United States who lacked formal education or English language exposure, they created an erroneous intelligence hierarchy of ethnic groups."
+    },
+    {
+      "label": "P-EXP",
+      "text": "The intersection of eugenics and IQ testing influenced not only science, but policy as well."
+    },
+    {
+      "label": "P-EXP",
+      "text": "In 1924, the state of Virginia created policy allowing for the forced sterilization of people with low IQ scores— a decision the United States Supreme Court upheld."
+    },
+    {
+      "label": "P-EXP",
+      "text": "In Nazi Germany, the government authorized the murder of children based on low IQ."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Following the Holocaust and the Civil Rights Movement, the discriminatory uses of IQ tests were challenged on both moral and scientific grounds."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Scientists began to gather evidence of environmental impacts on IQ."
+    },
+    {
+      "label": "P-EXP",
+      "text": "This phenomenon, known as the Flynn Effect, happened much too fast to be caused by inherited evolutionary traits."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Instead, the cause was likely environmental— improved education, better healthcare, and better nutrition."
+    },
+    {
+      "label": "P-EXP",
+      "text": "These diagnoses relied in part on the clinical judgment of the evaluators, and used a subset of the tests used to determine IQ— a practice later research found does not yield clinically useful information."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Today, IQ tests employ many similar design elements and types of questions as the early tests, though we have better techniques for identifying potential bias in the test."
+    },
+    {
+      "label": "P-EXP",
+      "text": "They’re no longer used to diagnose psychiatric conditions."
+    },
+    {
+      "label": "P-EXP",
+      "text": "But a similarly problematic practice using subtest scores is still sometimes used to diagnose learning disabilities, against the advice of many experts."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Psychologists around the world still use IQ tests to identify intellectual disability, and the results can be used to determine appropriate educational support, job training, and assisted living."
+    },
+    {
+      "label": "MC-EXP",
+      "text": "IQ test results have been used to justify horrific policies and scientifically baseless ideologies."
+    },
+    {
+      "label": "C-EXP",
+      "text": "That doesn’t mean the test itself is worthless— in fact, it does a good job of measuring the reasoning and problem-solving skills it sets out to."
+    },
+    {
+      "label": "C-EXP",
+      "text": "But that isn’t the same thing as measuring a person’s potential."
+    },
+    {
+      "label": "C-EXP",
+      "text": "Though there are many complicated political, historical, scientific, and cultural issues wrapped up in IQ testing, more and more researchers agree on this point, and reject the notion that individuals can be categorized by a single numerical score."
+    }
+  ]
+}

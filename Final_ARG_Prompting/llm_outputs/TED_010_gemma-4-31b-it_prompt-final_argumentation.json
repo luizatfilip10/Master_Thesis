@@ -1,0 +1,36 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "there's good people everywhere"
+    },
+    {
+      "label": "C-EXP",
+      "text": "All it takes in one person to mess it up"
+    },
+    {
+      "label": "P-EXP",
+      "text": "there was a Pakistani Muslim guy who tried to blow up a car bomb"
+    },
+    {
+      "label": "P-EXP",
+      "text": "there was a white American guy in Austin, Texas who flew his airplane into the IRS building"
+    },
+    {
+      "label": "C-EXP",
+      "text": "he gives a bad name to Muslims and Middle Easterners and Pakistanis from all over the world"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I encourage people always to go visit these places"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "I try, with my stand-up, to break stereotypes, present Middle Easterners and Muslims in a positive light"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I hope that in the coming years, more film and television programs come out of Hollywood, presenting us in a positive light"
+    }
+  ]
+}

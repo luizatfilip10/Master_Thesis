@@ -1,0 +1,64 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "there’s no single agreed upon definition of general intelligence"
+    },
+    {
+      "label": "C-EXP",
+      "text": "that left the door open for people to use the test in service of their own preconceived assumptions about intelligence"
+    },
+    {
+      "label": "C-EXP",
+      "text": "What started as a way to identify those who needed academic help quickly became used to sort people in other ways, often in service of deeply flawed ideologies."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Without taking into account that many of the recruits tested were new immigrants to the United States who lacked formal education or English language exposure, they created an erroneous intelligence hierarchy of ethnic groups."
+    },
+    {
+      "label": "C-EXP",
+      "text": "The intersection of eugenics and IQ testing influenced not only science, but policy as well."
+    },
+    {
+      "label": "C-EXP",
+      "text": "Scientists began to gather evidence of environmental impacts on IQ."
+    },
+    {
+      "label": "P-EXP",
+      "text": "For example, as IQ tests were periodically recalibrated over the 20th century, new generations scored consistently higher on old tests than each previous generation."
+    },
+    {
+      "label": "P-EXP",
+      "text": "This phenomenon, known as the Flynn Effect, happened much too fast to be caused by inherited evolutionary traits."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Instead, the cause was likely environmental— improved education, better healthcare, and better nutrition."
+    },
+    {
+      "label": "C-EXP",
+      "text": "a practice later research found does not yield clinically useful information."
+    },
+    {
+      "label": "C-EXP",
+      "text": "But a similarly problematic practice using subtest scores is still sometimes used to diagnose learning disabilities, against the advice of many experts."
+    },
+    {
+      "label": "C-EXP",
+      "text": "IQ test results have been used to justify horrific policies and scientifically baseless ideologies."
+    },
+    {
+      "label": "C-EXP",
+      "text": "That doesn’t mean the test itself is worthless— in fact, it does a good job of measuring the reasoning and problem-solving skills it sets out to."
+    },
+    {
+      "label": "C-EXP",
+      "text": "But that isn’t the same thing as measuring a person’s potential."
+    },
+    {
+      "label": "MC-EXP",
+      "text": "reject the notion that individuals can be categorized by a single numerical score"
+    }
+  ]
+}

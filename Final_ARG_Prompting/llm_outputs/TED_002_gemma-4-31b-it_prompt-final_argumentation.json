@@ -1,0 +1,76 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "there’s no single agreed upon definition of general intelligence"
+    },
+    {
+      "label": "C-EXP",
+      "text": "that left the door open for people to use the test in service of their own preconceived assumptions about intelligence"
+    },
+    {
+      "label": "C-EXP",
+      "text": "What started as a way to identify those who needed academic help quickly became used to sort people in other ways, often in service of deeply flawed ideologies"
+    },
+    {
+      "label": "C-EXP",
+      "text": "There were many problems with this line of thinking"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the idea that intelligence was not only fixed and inherited, but also linked to a person’s race"
+    },
+    {
+      "label": "C-EXP",
+      "text": "scientists used the results of the military initiative to make erroneous claims that certain racial groups were intellectually superior to others"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Without taking into account that many of the recruits tested were new immigrants to the United States who lacked formal education or English language exposure"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the state of Virginia created policy allowing for the forced sterilization of people with low IQ scores"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the government authorized the murder of children based on low IQ"
+    },
+    {
+      "label": "P-EXP",
+      "text": "as IQ tests were periodically recalibrated over the 20th century, new generations scored consistently higher on old tests than each previous generation"
+    },
+    {
+      "label": "C-EXP",
+      "text": "This phenomenon, known as the Flynn Effect, happened much too fast to be caused by inherited evolutionary traits"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the cause was likely environmental— improved education, better healthcare, and better nutrition"
+    },
+    {
+      "label": "C-EXP",
+      "text": "a practice later research found does not yield clinically useful information"
+    },
+    {
+      "label": "C-EXP",
+      "text": "a similarly problematic practice using subtest scores is still sometimes used to diagnose learning disabilities"
+    },
+    {
+      "label": "C-EXP",
+      "text": "IQ test results have been used to justify horrific policies and scientifically baseless ideologies"
+    },
+    {
+      "label": "C-EXP",
+      "text": "it does a good job of measuring the reasoning and problem-solving skills it sets out to"
+    },
+    {
+      "label": "C-EXP",
+      "text": "that isn’t the same thing as measuring a person’s potential"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "reject the notion that individuals can be categorized by a single numerical score"
+    }
+  ]
+}

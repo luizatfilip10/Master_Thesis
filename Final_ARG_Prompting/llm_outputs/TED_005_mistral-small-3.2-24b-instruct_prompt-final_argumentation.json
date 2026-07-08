@@ -1,0 +1,40 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "People love cities. They are interested. They have ideas."
+    },
+    {
+      "label": "P-EXP",
+      "text": "We know that some urban planners are using it as a sketching tool"
+    },
+    {
+      "label": "P-EXP",
+      "text": "if something works in the game, it is highly likely that it will also work in the real world"
+    },
+    {
+      "label": "P-EXP",
+      "text": "you can actually try out things, see if this intersection might fit this kind of a situation"
+    },
+    {
+      "label": "P-EXP",
+      "text": "If we build a new road, would it help?"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We know that cities are growing. They're getting bigger as we go, and the percentage of population living in cities is projected to rise."
+    },
+    {
+      "label": "C-EXP",
+      "text": "We need the solutions and these people, playing the game, they are trying out different kinds of solutions."
+    },
+    {
+      "label": "C-EXP",
+      "text": "They might have something that is really important."
+    },
+    {
+      "label": "MC-EXP",
+      "text": "it might be that this is not just a game. It might be a way to decide our own fate."
+    }
+  ]
+}

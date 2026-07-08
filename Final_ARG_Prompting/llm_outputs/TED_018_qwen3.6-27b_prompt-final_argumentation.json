@@ -1,0 +1,48 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "But sometimes, habituation isn't good."
+    },
+    {
+      "label": "P-EXP",
+      "text": "If it stops us from noticing the problems that are around us, well, that's bad. And if it stops us from noticing and fixing those problems, well, then that's really bad."
+    },
+    {
+      "label": "C-EXP",
+      "text": "But designers, innovators and entrepreneurs, it's our job to not just notice those things, but to go one step further and try to fix them."
+    },
+    {
+      "label": "C-EXP",
+      "text": "Well, it's seeing the invisible problem, not just the obvious problem, that's important, not just for product design, but for everything we do."
+    },
+    {
+      "label": "C-EXP",
+      "text": "My first tip is to look broader."
+    },
+    {
+      "label": "P-EXP",
+      "text": "If you take a step back and look at all the boxes, maybe there's a way to remove one or combine them so that you can make that process much simpler."
+    },
+    {
+      "label": "C-EXP",
+      "text": "For my second tip, it's to look closer."
+    },
+    {
+      "label": "P-EXP",
+      "text": "So if we focus on those tiny details, the ones we may not see and we look at them as we say, 'Are those important or is that the way we've always done it? Maybe there's a way to get rid of those.'"
+    },
+    {
+      "label": "C-EXP",
+      "text": "So my last piece of advice is to think younger."
+    },
+    {
+      "label": "P-EXP",
+      "text": "But kids haven't been around long enough to get used to those things. And so when they run into problems, they immediately try to solve them, and sometimes they find a better way, and that way really is better."
+    },
+    {
+      "label": "MC-EXP",
+      "text": "Our challenge is to get back there, to feel that frustration, to see those little details, to look broader, look closer, and to think younger so we can stay beginners."
+    }
+  ]
+}

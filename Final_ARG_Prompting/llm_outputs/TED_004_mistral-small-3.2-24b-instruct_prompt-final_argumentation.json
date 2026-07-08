@@ -1,0 +1,52 @@
+{
+  "annotations": [
+    {
+      "label": "MC-EXP",
+      "text": "Mathematics is not just solving for x, it's also figuring out why"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Mathematics is the science of patterns, and we study it to learn how to think logically, critically and creatively"
+    },
+    {
+      "label": "C-EXP",
+      "text": "too much of the mathematics that we learn in school is not effectively motivated"
+    },
+    {
+      "label": "C-EXP",
+      "text": "wouldn't it be great if every once in a while we did mathematics simply because it was fun or beautiful or because it excited the mind"
+    },
+    {
+      "label": "C-EXP",
+      "text": "what I find most inspirational about them are the beautiful number patterns they display"
+    },
+    {
+      "label": "C-EXP",
+      "text": "as much fun as it is to discover these patterns, it's even more satisfying to understand why they are true"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We spend lots of time learning about calculation, but let's not forget about application, including, perhaps, the most important application of all, learning how to think"
+    },
+    {
+      "label": "P-EXP",
+      "text": "when our students ask, 'Why are we learning this?' then they often hear that they'll need it in an upcoming math class or on a future test"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Fibonacci numbers appear in nature surprisingly often"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the number of petals on a flower is typically a Fibonacci number, or the number of spirals on a sunflower or a pineapple tends to be a Fibonacci number as well"
+    },
+    {
+      "label": "P-EXP",
+      "text": "the squares of one, one, two, three, five and eight add up to eight times 13"
+    },
+    {
+      "label": "P-EXP",
+      "text": "if you divide 13 by eight, you get 1.625. And if you divide the larger number by the smaller number, then these ratios get closer and closer to about 1.618, known to many people as the Golden Ratio, a number which has fascinated mathematicians, scientists and artists for centuries"
+    }
+  ]
+}

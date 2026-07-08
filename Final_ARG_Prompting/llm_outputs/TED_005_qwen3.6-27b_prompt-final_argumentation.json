@@ -1,0 +1,28 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "some urban planners are using it as a sketching tool"
+    },
+    {
+      "label": "P-EXP",
+      "text": "while the simulation is not completely realistic, it is realistic enough that if something works in the game, it is highly likely that it will also work in the real world"
+    },
+    {
+      "label": "P-EXP",
+      "text": "cities are growing. They're getting bigger as we go, and the percentage of population living in cities is projected to rise"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we need the solutions"
+    },
+    {
+      "label": "C-EXP",
+      "text": "these people, playing the game, they are trying out different kinds of solutions"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "this is not just a game. It might be a way to decide our own fate"
+    }
+  ]
+}

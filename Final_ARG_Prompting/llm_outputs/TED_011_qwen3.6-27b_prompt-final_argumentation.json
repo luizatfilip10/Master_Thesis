@@ -1,0 +1,36 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "in the communication of science, there is this obsession with seriousness"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the language in their textbook was truly incomprehensible"
+    },
+    {
+      "label": "C-EXP",
+      "text": "science communication has taken on this idea of what I call the tyranny of precision, where you can't just tell a story"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Because good storytelling is all about emotional connection"
+    },
+    {
+      "label": "P-EXP",
+      "text": "If a young learner thinks that all viruses have DNA, that's not going to ruin their chances of success in science"
+    },
+    {
+      "label": "P-EXP",
+      "text": "if a young learner can't understand anything in science and learns to hate it because it all sounds like this, that will ruin their chances of success"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I know this is the right way we should be communicating science"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "leave out the seriousness, leave out the jargon. Make me laugh. Make me care. Leave out those annoying details that nobody cares about and just get to the point."
+    }
+  ]
+}

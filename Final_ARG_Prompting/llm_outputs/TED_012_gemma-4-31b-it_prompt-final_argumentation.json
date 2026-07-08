@@ -1,0 +1,40 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "the call toward authenticity is sacred and for the greater good"
+    },
+    {
+      "label": "C-EXP",
+      "text": "the truth not only sets you free, it will set everyone free"
+    },
+    {
+      "label": "C-EXP",
+      "text": "coming out as transgender is not all that great for your career"
+    },
+    {
+      "label": "P-EXP",
+      "text": "Within seven days, I lost every single one of my jobs"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "the road to redemption always comes from choosing the narrow path"
+    },
+    {
+      "label": "C-EXP",
+      "text": "When one person in a family transitions, the entire family transitions whether they want to or not"
+    },
+    {
+      "label": "C-EXP",
+      "text": "My father lived this life he didn't want to live, but he lived it so that I could have a dad"
+    },
+    {
+      "label": "C-EXP",
+      "text": "They believe an enemy is necessary for the tribe to survive, so where no enemy exists, they create one"
+    },
+    {
+      "label": "C-EXP",
+      "text": "I cannot ask my father to be anything other than her true self"
+    }
+  ]
+}

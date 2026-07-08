@@ -1,0 +1,44 @@
+{
+  "annotations": [
+    {
+      "label": "P-EXP",
+      "text": "war only results in about 18 percent of violent deaths worldwide"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Today, you are more likely to die violently if you live in a middle-income democracy with high levels of income inequality and serious political polarization"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "violence today is not largely the result of war but is because of rotten politics in our democracies, regular voters are the greatest force for change"
+    },
+    {
+      "label": "C-EXP",
+      "text": "The most important thing we can do is abandon the notion that some lives are just worth less than others"
+    },
+    {
+      "label": "C-EXP",
+      "text": "This devaluing of human life, a devaluing we barely admit even to ourselves, is what allows the whole downward spiral to begin"
+    },
+    {
+      "label": "C-EXP",
+      "text": "inequality within our countries is a vastly greater cause of violence than war between countries"
+    },
+    {
+      "label": "P-EXP",
+      "text": "one of them is that it lets us separate ourselves from what's happening on the other side of town"
+    },
+    {
+      "label": "C-EXP",
+      "text": "reducing violence begins with privileging every human life"
+    },
+    {
+      "label": "P-EXP",
+      "text": "In places where people have demanded change, violent death has fallen, from Colombia to New York City, where homicide is down 85 percent since 1990"
+    },
+    {
+      "label": "C-EXP",
+      "text": "violence will always be with us, but it's not a constant. It has been falling for centuries, and it could fall further faster"
+    }
+  ]
+}

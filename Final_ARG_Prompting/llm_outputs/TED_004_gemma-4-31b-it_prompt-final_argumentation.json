@@ -1,0 +1,28 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "Essentially, for three reasons: calculation, application, and last, and unfortunately least in terms of the time we give it, inspiration"
+    },
+    {
+      "label": "C-EXP",
+      "text": "too much of the mathematics that we learn in school is not effectively motivated"
+    },
+    {
+      "label": "P-EXP",
+      "text": "when our students ask, \"Why are we learning this?\" then they often hear that they'll need it in an upcoming math class or on a future test"
+    },
+    {
+      "label": "C-EXP",
+      "text": "there's a beautiful side to it that I fear does not get enough attention in our schools"
+    },
+    {
+      "label": "C-EXP",
+      "text": "let's not forget about application, including, perhaps, the most important application of all, learning how to think"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "Mathematics is not just solving for x, it's also figuring out why"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "annotations": [
+    {
+      "label": "MC-EXP",
+      "text": "we should be suspicious of stories"
+    },
+    {
+      "label": "C-EXP",
+      "text": "narratives tend to be too simple"
+    },
+    {
+      "label": "P-EXP",
+      "text": "for the point of a narrative is to strip it away, not just into 18 minutes, but most narratives you can present in a sentence or two"
+    },
+    {
+      "label": "C-EXP",
+      "text": "When you strip away detail, you tend to tell stories in terms of good versus evil"
+    },
+    {
+      "label": "C-EXP",
+      "text": "every time you're telling a good versus evil story, you're basically lowering your IQ by ten points or more"
+    },
+    {
+      "label": "C-EXP",
+      "text": "No, a story is about evil people plotting together."
+    },
+    {
+      "label": "C-EXP",
+      "text": "I view it usually as a kind of mental laziness."
+    },
+    {
+      "label": "C-EXP",
+      "text": "stories will serve dual and conflicting purposes, and very often they will lead us astray."
+    },
+    {
+      "label": "P-EXP",
+      "text": "Stories in order to work have to be simple, easily grasped, easily told to others, easily remembered."
+    },
+    {
+      "label": "C-EXP",
+      "text": "outsiders manipulate us using stories"
+    },
+    {
+      "label": "P-EXP",
+      "text": "There are a lot of people who have a financial incentive to promote that story."
+    },
+    {
+      "label": "C-EXP",
+      "text": "There are people using your love of stories to manipulate you."
+    },
+    {
+      "label": "C-EXP",
+      "text": "don't fall into the trap of thinking because you're agnostic on some things, that you're being fundamentally reasonable about your self-deception, your stories, and your open-mindedness."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "we reach out to people who are not like us"
+    },
+    {
+      "label": "P-EXP",
+      "text": "when we do that, we learn from people who are not like us"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "The point that we should be worried about is, how much strangeness are we getting?"
+    },
+    {
+      "label": "P-EXP",
+      "text": "our social relations are increasingly mediated by data, and data turns our social relations into digital relations, and that means that our digital relations now depend extraordinarily on technology to bring to them a sense of robustness, a sense of discovery, a sense of surprise and unpredictability"
+    },
+    {
+      "label": "P-EXP",
+      "text": "strangers are part of a world of really rigid boundaries"
+    },
+    {
+      "label": "C-EXP",
+      "text": "The economies of the future depend on that"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Our social lives in the future depend on that"
+    },
+    {
+      "label": "P-EXP",
+      "text": "these weak ties that are a part of our networks, these strangers, are actually more effective at diffusing information to us than are our strong ties"
+    },
+    {
+      "label": "P-EXP",
+      "text": "these people who are so close to us, these strong ties in our lives, actually have a homogenizing effect on us"
+    },
+    {
+      "label": "C-EXP",
+      "text": "as people's relationships to the things in their lives change, so do their relations with other people"
+    },
+    {
+      "label": "C-EXP",
+      "text": "recommendation system after recommendation system continues to miss the boat"
+    },
+    {
+      "label": "P-EXP",
+      "text": "It continues to try to predict what I need based on some past characterization of who I am, of what I've already done"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Security technology after security technology continues to design data protection in terms of threats and attacks, keeping me locked into really rigid kinds of relations"
+    },
+    {
+      "label": "C-EXP",
+      "text": "A more effective way to think about my relations might be in terms of closeness and distance"
+    },
+    {
+      "label": "C-EXP",
+      "text": "People aren't close or distant. People are always a combination of the two, and that combination is constantly changing"
+    },
+    {
+      "label": "C-EXP",
+      "text": "Strangeness is not about meeting strangers"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we need to disrupt our zones of familiarity"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We have to change the norms"
+    },
+    {
+      "label": "P-EXP",
+      "text": "in order to enable new kinds of technologies as a basis for new kinds of businesses"
+    },
+    {
+      "label": "C-EXP",
+      "text": "safely seeking strangeness might very well be a new basis for that innovation"
+    }
+  ]
+}

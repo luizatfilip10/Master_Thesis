@@ -1,0 +1,44 @@
+{
+  "annotations": [
+    {
+      "label": "C-EXP",
+      "text": "the game is about self-expression, creativity, not just overcoming the challenges posed by the simulation"
+    },
+    {
+      "label": "C-EXP",
+      "text": "if you want your citizens to walk, which is kind of beneficial, you actually need to have walking as a reasonable means of transportation"
+    },
+    {
+      "label": "P-EXP",
+      "text": "It should be a good way to reach places"
+    },
+    {
+      "label": "C-EXP",
+      "text": "We are seeing some real-world uses to this game"
+    },
+    {
+      "label": "P-EXP",
+      "text": "some urban planners are using it as a sketching tool"
+    },
+    {
+      "label": "C-EXP",
+      "text": "it is realistic enough that if something works in the game, it is highly likely that it will also work in the real world"
+    },
+    {
+      "label": "P-EXP",
+      "text": "you can actually try out things, see if this intersection might fit this kind of a situation"
+    },
+    {
+      "label": "P-EXP",
+      "text": "they had a new area that they wanted to develop in the city. They made a map with the existing city, they left empty the area that they would want to develop and shared this map. So anyone could download the map, play the game, build the area and submit their creations to the city council"
+    },
+    {
+      "label": "C-EXP",
+      "text": "we need the solutions and these people, playing the game, they are trying out different kinds of solutions"
+    },
+    {
+      "label": "MC-EXP",
+      "text": "this is not just a game. It might be a way to decide our own fate"
+    }
+  ]
+}
