@@ -128,6 +128,7 @@ Master_Thesis/
 ├── Final_STORAL_Prompting/
 ├── Notebooks/
 ├── Results/
+├── Paper/
 └── README.md
 ```
 
