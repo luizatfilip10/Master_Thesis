@@ -79,6 +79,7 @@ For both datasets, text length was used as the basis for sampling. Texts were co
 | `Final_STORAL_Prompting` | Contains the final implicit-argumentation prompt evaluation files for STORAL stories. |
 | `Notebooks` | Contains Jupyter notebooks used for sampling, prompting, result processing, agreement analysis, and evaluation. |
 | `Results` | Contains final result tables, including Gamma agreement results, TED F1 scores, STORAL semantic-similarity results, and qualitative error-analysis summaries. |
+| `Paper` | Contains final research paper. |
 
 ## Evaluation
 
@@ -108,11 +109,9 @@ The notebooks are organized by evaluation stage rather than as a single end-to-e
 
 This repository contains sampled and derived research data used for a master's thesis. Before reusing or redistributing the data, check the licensing and citation requirements of the original TED and STORAL sources.
 
-No explicit license file is currently provided in this repository. Add a license if the repository is intended for reuse by others.
-
 ## Thesis context
 
-This repository supports a master's thesis on computational annotation of argumentation and narrative discourse using large language models. The central goal is to examine how well LLMs can reproduce human span annotations and explicit formulations across different discourse types and annotation layers.
+This repository supports a master's thesis on computational annotation of argumentation and narrative discourse using Large Language Models. The main goal is to examine how well LLMs can reproduce human span annotations and explicit formulations across different discourse types and annotation layers.
 
 ## Repository structure
 
