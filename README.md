@@ -79,7 +79,7 @@ For both datasets, text length was used as the basis for sampling. Texts were co
 | `Final_STORAL_Prompting` | Contains the final implicit-argumentation prompt evaluation files for STORAL stories. |
 | `Notebooks` | Contains Jupyter notebooks used for sampling, prompting, result processing, agreement analysis, and evaluation. |
 | `Results` | Contains final result tables, including Gamma agreement results, TED F1 scores, STORAL semantic-similarity results, and qualitative error-analysis summaries. |
-| `Paper` | Contains final research paper on the study. |
+| `Paper` | Contains final research paper of the study. |
 
 ## Evaluation
 
