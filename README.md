@@ -1,5 +1,5 @@
 # Master Thesis Repository
-
+### Luiza-Teodora Filip (s5183685)
 This repository contains the data samples, annotation guidelines, prompt-development files, model outputs, notebooks, and evaluation results used for a master's thesis on LLM-based annotation of argumentation and narrative discourse.
 
 The project investigates how large language models can be used to identify argumentative components and narrative spans in two different discourse types: TED Talk transcripts and short folktale-like stories from the STORAL dataset.
